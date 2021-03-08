@@ -14,7 +14,7 @@ html,body{
 /*header*/
 .header{
 min-height: 60vh;
-background: url('../img/background.png') center center no-repeat;
+background: url('../img/backgroundpic.jpg') center center no-repeat;
 background-size:cover;
 }
 
@@ -130,3 +130,4 @@ footer{
 
     box-shadow: 5px 5px 10px grey;
 }
+
